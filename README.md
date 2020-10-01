@@ -2,7 +2,7 @@
 
 Структура папок и файлов
 
-```bash
+```
 ├── controllers
 ├── entities
 ├── libs
